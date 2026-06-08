@@ -7,6 +7,7 @@ using Scalar.AspNetCore;
 using UniNest.Api.Services.Auth;
 using UniNest.API.Configurations;
 using UniNest.API.Data;
+using UniNest.API.Middleware;
 using UniNest.API.Models.User;
 using UniNest.API.Services.Auth;
 
@@ -29,6 +30,8 @@ builder.Services.Configure<JwtSettings>(
 );
 
 builder.Services.AddScoped<IJwtService,JwtService>();
+builder.Services.AddScoped<IGoogleAuthService,GoogleAuthService>();
+builder.Configuration.AddUserSecrets<Program>();
 
 // jwt config
 var jwtSettings =
@@ -83,6 +86,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<ExceptionHandlingMiddleware>();
+
 
 app.UseAuthentication();
 app.UseAuthorization();
