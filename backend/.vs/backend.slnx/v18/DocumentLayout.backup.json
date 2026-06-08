@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\uninest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\uninest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\uninest.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\uninest.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\uninest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\uninest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UniNest.API.http",
               "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\UniNest.API.http",
               "RelativeDocumentMoniker": "UniNest.API\\UniNest.API.http",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Program.cs",
               "RelativeDocumentMoniker": "UniNest.API\\Program.cs",
@@ -72,17 +72,18 @@
               "RelativeToolTip": "UniNest.API\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T11:41:25.989Z"
+              "WhenOpened": "2026-06-07T11:41:25.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UniNest.API.csproj",
               "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\UniNest.API.csproj",
               "RelativeDocumentMoniker": "UniNest.API\\UniNest.API.csproj",
               "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\UniNest.API.csproj",
               "RelativeToolTip": "UniNest.API\\UniNest.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-07T11:41:01.275Z",
               "EditorCaption": ""
@@ -97,7 +98,8 @@
               "RelativeToolTip": "UniNest.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-07T11:39:15.958Z"
+              "WhenOpened": "2026-06-07T11:39:15.958Z",
+              "EditorCaption": ""
             }
           ]
         }

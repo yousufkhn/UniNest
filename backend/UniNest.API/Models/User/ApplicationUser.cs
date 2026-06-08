@@ -11,6 +11,7 @@ namespace UniNest.API.Models.User
         public DateTimeOffset CreatedAt { get; set; }
         public string? ContactNumber { get; set; }
         public bool IsCollegeVerified { get; set; }
+        public string? GoogleId {get;set;}
         // Keep ApplicationUser minimal — feature data lives in separate tables.
     }
 }
