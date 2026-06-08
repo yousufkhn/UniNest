@@ -3,60 +3,24 @@
   "WorkspaceRootPath": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\uninest.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\uninest.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\uninest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\uninest.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\services\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\services\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\services\\auth\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\services\\auth\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\models\\user\\roommateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\models\\user\\roommateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\models\\roomatefinder\\roomlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\models\\roomatefinder\\roomlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\models\\roomatefinder\\listinglocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\models\\roomatefinder\\listinglocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\models\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\models\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\models\\roomatefinder\\listingimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\models\\roomatefinder\\listingimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|d:\\mydata\\projects\\uninest-project\\uninest\\backend\\uninest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45534A0C-4FD5-F968-24F0-0C8824BD1B45}|UniNest.API\\UniNest.API.csproj|solutionrelative:uninest.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,19 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "UniNest.API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "UniNest.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-08T11:15:47.337Z",
+              "DocumentIndex": 1,
+              "Title": "UniNest.API.http",
+              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\UniNest.API.http",
+              "RelativeDocumentMoniker": "UniNest.API\\UniNest.API.http",
+              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\UniNest.API.http",
+              "RelativeToolTip": "UniNest.API\\UniNest.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-08T14:06:31.015Z",
               "EditorCaption": ""
             },
             {
@@ -87,39 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Controllers\\TestController.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Controllers\\TestController.cs",
-              "RelativeToolTip": "UniNest.API\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T14:49:03.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RoommateProfile.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\User\\RoommateProfile.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Models\\User\\RoommateProfile.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\User\\RoommateProfile.cs",
-              "RelativeToolTip": "UniNest.API\\Models\\User\\RoommateProfile.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:32:32.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Program.cs",
               "RelativeDocumentMoniker": "UniNest.API\\Program.cs",
               "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Program.cs",
               "RelativeToolTip": "UniNest.API\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T11:43:16.539Z",
               "EditorCaption": ""
@@ -127,15 +65,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\appsettings.json",
-              "RelativeDocumentMoniker": "UniNest.API\\appsettings.json",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\appsettings.json",
-              "RelativeToolTip": "UniNest.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-07T11:39:15.958Z",
-              "EditorCaption": ""
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UniNest.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UniNest.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T11:41:25.989Z"
             },
             {
               "$type": "Document",
@@ -143,116 +80,24 @@
               "Title": "UniNest.API.csproj",
               "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\UniNest.API.csproj",
               "RelativeDocumentMoniker": "UniNest.API\\UniNest.API.csproj",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\UniNest.API.csproj*",
-              "RelativeToolTip": "UniNest.API\\UniNest.API.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAKAAAAAAAAAA==",
+              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\UniNest.API.csproj",
+              "RelativeToolTip": "UniNest.API\\UniNest.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-07T11:41:01.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Services\\Auth\\IJwtService.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Services\\Auth\\IJwtService.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Services\\Auth\\IJwtService.cs",
-              "RelativeToolTip": "UniNest.API\\Services\\Auth\\IJwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T14:56:38.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Services\\Auth\\JwtService.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Services\\Auth\\JwtService.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Services\\Auth\\JwtService.cs",
-              "RelativeToolTip": "UniNest.API\\Services\\Auth\\JwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T14:56:39.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\User\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Models\\User\\ApplicationUser.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\User\\ApplicationUser.cs",
-              "RelativeToolTip": "UniNest.API\\Models\\User\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:28:40.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RoomListing.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\RoomateFinder\\RoomListing.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Models\\RoomateFinder\\RoomListing.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\RoomateFinder\\RoomListing.cs",
-              "RelativeToolTip": "UniNest.API\\Models\\RoomateFinder\\RoomListing.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:35:18.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "UniNest.API\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T11:41:25.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ListingLocation.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\RoomateFinder\\ListingLocation.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Models\\RoomateFinder\\ListingLocation.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\RoomateFinder\\ListingLocation.cs",
-              "RelativeToolTip": "UniNest.API\\Models\\RoomateFinder\\ListingLocation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:36:18.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ListingImage.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\RoomateFinder\\ListingImage.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Models\\RoomateFinder\\ListingImage.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\RoomateFinder\\ListingImage.cs",
-              "RelativeToolTip": "UniNest.API\\Models\\RoomateFinder\\ListingImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:36:36.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\Enums\\Gender.cs",
-              "RelativeDocumentMoniker": "UniNest.API\\Models\\Enums\\Gender.cs",
-              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\Models\\Enums\\Gender.cs",
-              "RelativeToolTip": "UniNest.API\\Models\\Enums\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:34:00.074Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UniNest.API\\appsettings.json",
+              "ToolTip": "D:\\MyData\\Projects\\UniNest-Project\\UniNest\\backend\\UniNest.API\\appsettings.json",
+              "RelativeToolTip": "UniNest.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T11:39:15.958Z"
             }
           ]
         }

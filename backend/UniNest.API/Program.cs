@@ -3,13 +3,12 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using Microsoft.OpenApi;
+using Scalar.AspNetCore;
 using UniNest.Api.Services.Auth;
 using UniNest.API.Configurations;
 using UniNest.API.Data;
 using UniNest.API.Models.User;
 using UniNest.API.Services.Auth;
-
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -70,36 +69,17 @@ builder.Services
 
 
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-// builder.Services.AddOpenApi();
-
-builder.Services.AddEndpointsApiExplorer();
-
-builder.Services.AddSwaggerGen(options =>
-{
-    options.AddSecurityDefinition("Bearer",
-        new OpenApiSecurityScheme
-        {
-            Name = "Authorization",
-            Type = SecuritySchemeType.Http,
-            Scheme = "bearer",
-            BearerFormat = "JWT",
-            In = ParameterLocation.Header
-        });
-    options.AddSecurityRequirement(document => new OpenApiSecurityRequirement
-    {
-       [new OpenApiSecuritySchemeReference("bearer",document)] = [] 
+builder.Services.AddOpenApi(options => {
+    options.AddScalarTransformers();
     });
-});
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    // app.MapOpenApi();
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    app.MapOpenApi();
+    app.MapScalarApiReference();
 }
 
 app.UseHttpsRedirection();

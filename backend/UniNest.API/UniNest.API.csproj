@@ -1,94 +1,28 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    
-    <!-- .NET version -->
     <TargetFramework>net10.0</TargetFramework>
-
-    <!-- Enables nullable reference types -->
     <Nullable>enable</Nullable>
-
-    <!-- Automatically imports common namespaces -->
     <ImplicitUsings>enable</ImplicitUsings>
-
   </PropertyGroup>
 
   <ItemGroup>
-
-    <!--
-      Google Authentication
-      Used to verify Google ID tokens received from the frontend.
-      Required for "Login with Google".
-    -->
-    <PackageReference Include="Google.Apis.Auth" Version="1.75.0" />
-
-    <!--
-      JWT Authentication
-      Used to create and validate JWT access tokens.
-    -->
-
-    <!--
-      ASP.NET Identity + Entity Framework Core integration
-      Provides:
-      - IdentityUser
-      - UserManager
-      - RoleManager
-      - IdentityDbContext
-      - Email/Password support (future)
-      - Roles & Claims
-    -->
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="10.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.8" />
-
-    <!--
-      Entity Framework Core Design Tools
-      Required for:
-      - Add-Migration
-      - Update-Database
-      - Scaffold operations
-
-      Not included in published builds.
-    -->
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.0">
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="10.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.8">
       <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-
-    <!--
-      EF Core CLI Support
-      Enables:
-      dotnet ef migrations add
-      dotnet ef database update
-
-      Development-time only.
-    -->
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.0">
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-
-    <!--
-      PostgreSQL Provider for Entity Framework Core
-
-      Allows:
-      AppDbContext
-          ↓
-      PostgreSQL Database
-    -->
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.19.1" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.0" />
+    <PackageReference Include="Scalar.AspNetCore" Version="2.14.14" />
+    <PackageReference Include="Scalar.AspNetCore.Microsoft" Version="2.14.14" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.19.1" />
+  </ItemGroup>
 
-    <!--
-      Swagger / OpenAPI UI
-
-      Provides:
-      - Swagger UI
-      - API Documentation
-      - JWT Testing Interface
-      - OpenAPI Generation
-
-      Accessible via:
-      /swagger
-    -->
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.0" />
-
+  <ItemGroup>
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>
