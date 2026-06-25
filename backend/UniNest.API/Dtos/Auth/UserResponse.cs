@@ -1,12 +1,12 @@
 namespace UniNest.API.Dtos.Auth;
 
-public class UserResponse
-{
-    public string Id { get; set; } = string.Empty;
+public record UserResponse
+(
+    string Id,
 
-    public string Email { get; set; } = string.Empty;
+    string Email,
 
-    public string FullName { get; set; } = string.Empty;
+    string FullName,
 
-    public string? ProfilePictureUrl { get; set; }
-}
+    string? ProfilePictureUrl
+);
