@@ -78,14 +78,14 @@ public class GoogleAuthService : IGoogleAuthService
         }
 
         var googleUser = new GoogleUserInfo
-        {
-            Email = payload.Email,
-            Name = string.IsNullOrWhiteSpace(payload.Name)
+        (
+            payload.Email,
+            string.IsNullOrWhiteSpace(payload.Name)
                 ? payload.Email
                 : payload.Name,
-            Picture = payload.Picture,
-            GoogleId = payload.Subject
-        };
+            payload.Picture,
+            payload.Subject
+        );
 
         // Prefer GoogleId lookup
         var user = await _userManager.Users
@@ -146,16 +146,16 @@ public class GoogleAuthService : IGoogleAuthService
         var token = _jwtService.GenerateToken(user);
 
         return new AuthResponse
-        {
-            Token = token,
+        (
+            token,
 
-            User = new UserResponse
-            {
-                Id = user.Id,
-                Email = user.Email!,
-                FullName = user.FullName,
-                ProfilePictureUrl = user.ProfilePictureUrl
-            }
-        };
+            new UserResponse
+            (
+                user.Id,
+                user.Email!,
+                user.FullName,
+                user.ProfilePictureUrl
+            )
+        );
     }
 }

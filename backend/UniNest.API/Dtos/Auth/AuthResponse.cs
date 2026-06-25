@@ -1,8 +1,7 @@
 namespace UniNest.API.Dtos.Auth;
 
-public class AuthResponse
-{
-    public string Token { get; set; } = string.Empty;
-
-    public UserResponse User { get; set; } = null!;
-}
+public record AuthResponse
+(
+    string Token,
+    UserResponse User
+);
